@@ -1,7 +1,7 @@
 package com.Tns.Third;
 import java.util.*;
 
-public class armst1ong {
+public class armstong {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -20,5 +20,6 @@ public class armst1ong {
         } else {
             System.out.println(original + " is not an Armstrong number");
         }
+        sc.close();
     }
 }
