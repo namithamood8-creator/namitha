@@ -1,7 +1,7 @@
 package com.Tns.Third;
 import java.util.*;
 
-public class armstong {
+public class armst153ong {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
