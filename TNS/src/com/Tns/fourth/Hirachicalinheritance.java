@@ -1,5 +1,5 @@
 package com.Tns.fourth;
-public class Hirachicalinheritance{
+
 class Animal {
     void eat() {
         System.out.println("Animals can eat.");
@@ -18,7 +18,7 @@ class Cat extends Animal {
     }
 }
 
-public class HierarchicalInheritance {
+public class Hirachicalinheritance {
     public static void main(String[] args) {
         Dog d = new Dog();
         d.eat();
@@ -30,5 +30,4 @@ public class HierarchicalInheritance {
         c.eat();
         c.meow();
     }
-}
 }
