@@ -1,7 +1,7 @@
 package com.Tns.Third;
 import java.util.*;
 
-public class palindrome {
+public class sing {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a number: ");
