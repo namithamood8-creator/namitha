@@ -1,11 +1,9 @@
 package Namitha.assignment;
-public class Employee {
+public class Employees {
     private String name;
     private int employeeId;
     private double salary;
-
-    // Constructor
-    public Employee(String name, int employeeId, double salary) {
+    public employee(String name, int employeeId, double salary) {
         this.name = name;
         this.employeeId = employeeId;
         this.salary = salary;
