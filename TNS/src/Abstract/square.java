@@ -1,6 +1,4 @@
 package Abstract;
-
-
 class square extends Shape {
     private float side;
 
