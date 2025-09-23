@@ -12,9 +12,9 @@ public class Multiple {
 		catch(ArithmeticException e) {
 			System.out.println("String Index out of Bounds Exception caught:"+e);
 		}
-		catch (Exception e)
+		catch (Exception e) {
 		System.out.println("General Exception caught:"+e);
 	}
-	System.out.println("program continues after handling exception...";);
+	System.out.println("program continues after handling exception...");
 }
 }
