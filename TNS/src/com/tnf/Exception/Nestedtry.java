@@ -1,5 +1,5 @@
 package com.tnf.Exception;
-public class Nestedtry {
+public class Nestedtry{
     public static void main(String[] args) {
         try {
             // Outer try block
@@ -24,5 +24,6 @@ public class Nestedtry {
             }
 
             System.out.println("Rest of outer try block code");
+        }
 
         
